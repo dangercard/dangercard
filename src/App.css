@@ -1,0 +1,74 @@
+.App {
+  background-color: #222629;
+  color: #ccc;
+  position: absolute;
+  width: 100% !important;
+  height: 100% !important;
+  text-align: center;
+}
+
+.jumb {
+  position: relative;
+  top: 20% !important;
+  left: 50% !important;
+  transform: translate(-50%, -20%);
+  background-color: #222629 !important;
+  width: 80%;
+}
+
+.home-title {
+  color: #86c232;
+  font-size: 52px;
+}
+
+.home-text {
+  color: #ccc;
+}
+
+.btn-green {
+  background-color: #61892f !important;
+  border-color: #61892f !important;
+  /* background-color: #86c232 !important;
+    border-color: #86c232 !important; */
+}
+
+.btn-green:hover {
+  /* background-color: #61892f !important;
+    border-color: #61892f !important; */
+  background-color: #86c232 !important;
+  border-color: #86c232 !important;
+}
+
+.nav-bar {
+  color: #222629 !important;
+  position: relative !important;
+}
+
+.nav-brand {
+  color: #ccc !important;
+}
+
+.nav-brand:hover {
+  color: #fff !important;
+  cursor: pointer;
+}
+
+.nav-item {
+  color: #ccc;
+  font-size: 18px;
+}
+
+.nav-item:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
+.nav-link {
+  color: #ccc !important;
+  font-size: 18px;
+}
+
+.nav-link:hover {
+  color: #fff !important;
+  cursor: pointer;
+}
