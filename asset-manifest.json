@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/dangercard/static/css/main.4b5a95c2.chunk.css",
-    "main.js": "/dangercard/static/js/main.27976fc7.chunk.js",
-    "main.js.map": "/dangercard/static/js/main.27976fc7.chunk.js.map",
+    "main.css": "/dangercard/static/css/main.2733076d.chunk.css",
+    "main.js": "/dangercard/static/js/main.b43a0e71.chunk.js",
+    "main.js.map": "/dangercard/static/js/main.b43a0e71.chunk.js.map",
     "runtime~main.js": "/dangercard/static/js/runtime~main.5ce4a0cb.js",
     "runtime~main.js.map": "/dangercard/static/js/runtime~main.5ce4a0cb.js.map",
     "static/css/2.266e55a5.chunk.css": "/dangercard/static/css/2.266e55a5.chunk.css",
-    "static/js/2.5bfa0e08.chunk.js": "/dangercard/static/js/2.5bfa0e08.chunk.js",
-    "static/js/2.5bfa0e08.chunk.js.map": "/dangercard/static/js/2.5bfa0e08.chunk.js.map",
+    "static/js/2.69a988d7.chunk.js": "/dangercard/static/js/2.69a988d7.chunk.js",
+    "static/js/2.69a988d7.chunk.js.map": "/dangercard/static/js/2.69a988d7.chunk.js.map",
     "index.html": "/dangercard/index.html",
-    "precache-manifest.e6dc17e85c59b9df86157201c6c8a409.js": "/dangercard/precache-manifest.e6dc17e85c59b9df86157201c6c8a409.js",
+    "precache-manifest.21a0eeda0aad1c7691c09d84018f4cb9.js": "/dangercard/precache-manifest.21a0eeda0aad1c7691c09d84018f4cb9.js",
     "service-worker.js": "/dangercard/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/dangercard/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.4b5a95c2.chunk.css.map": "/dangercard/static/css/main.4b5a95c2.chunk.css.map"
+    "static/css/main.2733076d.chunk.css.map": "/dangercard/static/css/main.2733076d.chunk.css.map",
+    "static/media/profile.png": "/dangercard/static/media/profile.2665415e.png"
   }
 }
