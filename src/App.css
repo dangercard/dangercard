@@ -7,6 +7,27 @@
   text-align: center;
 }
 
+.tab-link {
+  border-bottom-color: #6b6e70 !important;
+  border-radius: 0px !important;
+}
+
+.tab-text {
+  text-align: left;
+  margin-left: 15px;
+  
+}
+
+.profile-card {
+  background-color: #222629 !important;
+}
+
+.card-body {
+  border-right: 1px solid #6b6e70;
+  border-left: 1px solid #6b6e70;
+  border-bottom: 1px solid #6b6e70;
+}
+
 .jumb {
   position: relative;
   top: 20% !important;
